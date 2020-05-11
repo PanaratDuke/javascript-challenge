@@ -20,9 +20,9 @@ Searching the specific data using input from user as criteria and show filter da
 * HTML and CSS
 
 **Useful Links :-**
-https://www.w3schools.com/js/default.asp!
-[w3](https://www.w3schools.com/js/default.asp)
-https://www.javascripttutorial.net/
+* https://www.w3schools.com/js/default.asp)
+* https://www.javascripttutorial.net/
+
 # Website 
 *Website Designed by Rice University Data Analysis Bootscamp* 
 ![Website](/UFO-Level-1/image/website.png)
