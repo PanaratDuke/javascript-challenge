@@ -1,6 +1,10 @@
 # Javascript Challenge
 **Study** 
 * JavaScript 
+  *  Create Functions :-
+      * to append tags into html
+  * 
+
 * HTML 
 * CSS
 * D3.js
